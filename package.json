@@ -1,0 +1,11 @@
+{
+  "name": "ffi-bug",
+  "version": "0.0.1",
+  "dependencies": {
+    "ffi":"*",
+    "ref":"*",
+    "ref-array":"*",
+    "ref-struct":"*",
+    "ref-union":"*"
+  }
+}
